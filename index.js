@@ -11,4 +11,4 @@ import {name as appName} from './app.json';
 AppRegistry.registerComponent(appName, () => App);
 
 // Register the CFS component for the external display
-AppRegistry.registerComponent('CFS', () => CFS);
+// AppRegistry.registerComponent('CFS', () => CFS);
